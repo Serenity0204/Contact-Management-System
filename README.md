@@ -1,6 +1,7 @@
 # Contact-Management-System
 It's a contact management system built with C++. It has 8 different functionalities.
 
+Note: The maximum capacity is 1000 contacts.
 1. Enter 1 to add a contact
 2. Enter 2 to show all of the contacts.
 3. Enter 3 to delete a contact by name.
