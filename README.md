@@ -10,8 +10,3 @@ Note: The maximum capacity is 1000 contacts.
 6. Enter 6 to show the instruction.
 7. Enter 7 to clear the contact list.
 8. Enter 0 to exit.
-
-How to run the file:
-1. Download the zip.
-2. Extract the file.
-3. Go to Contact-Management-System-main -> Contact Management System -> Debug -> Contact Management System.exe
