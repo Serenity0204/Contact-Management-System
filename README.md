@@ -1,4 +1,5 @@
 # Contact-Management-System
+It's my first ever programming project.
 It's a contact management system built with C++. It has 8 different functionalities.
 
 Note: The maximum capacity is 1000 contacts.
