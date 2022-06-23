@@ -1,6 +1,7 @@
 # Contact-Management-System
 It's my first ever programming project.
-It's a contact management system built with C++. It has 8 different functionalities.
+
+A console contact management system built with C++. It has 8 different functionalities include CRUD.
 
 Note: The maximum capacity is 1000 contacts.
 1. Enter 1 to add a contact
